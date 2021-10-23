@@ -1,0 +1,85 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(304deg, #cb6892, #9ccdc9, #35c6ac, #e4b1ca);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.login {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: black;
+  height: 35px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 1px;
+  color: rgb(216, 14, 98);
+  background-color: #15c9b8;
+}
+
+.password {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 18px;
+  color: black;
+  height: 35px;
+  margin: 15px;
+  border-radius: 5px;
+  border: 1px;
+  color: rgb(216, 14, 98);
+  background-color: #15c9b8;
+}
+
+.button {
+  font-family: "Inconsolata", monospace;
+  font-size: 25px;
+  color: white;
+  width: 224.5px;
+  height: 40px;
+  margin: 15px;
+  border-radius: 5px;
+  align-items: center;
+  display: flex;
+  color: white;
+  background-color: rgb(216, 14, 98);
+  border: none;
+}
+
+h2 {
+  font-family: "Festive", cursive;
+  font-size: 50px;
+  margin: 15px;
+  margin-left: 100px;
+  color: #e91341;
+}
+
+.box {
+  width: 300px;
+  height: 380px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0.5px 1px 7px #090c55;
+}
+
+body {
+  margin: 0px;
+}
+
+p {
+  margin-left: 45px;
+  font-size: 14px;
+  font-family: "Times New Roman", Times, serif;
+  color: gray;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+hr {
+  height: 1px;
+  background-image: linear-gradient(304deg, #cb6892, #9ccdc9, #35c6ac, #e4b1ca);
+}
